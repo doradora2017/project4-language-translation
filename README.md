@@ -1,2 +1,3 @@
 # project4-language-translation
-udacity 
+Udacity's deep learning project3 lanuage translation.
+Using seq2seq for language translation.
